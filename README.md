@@ -8,7 +8,8 @@ This repository is dedicated to manual testing of Chaldal application.Here, It s
 - [Test Report](#test-report)
 
 
-Test Plan 
+
+**Test Plan**
 
 Some of the sample test plan
 
@@ -20,18 +21,18 @@ Some of the sample test cases for homepage
 
 <img width="752" height="469" alt="image" src="https://github.com/user-attachments/assets/8f518151-65fa-41cd-b90b-6822f6a3d859" />
 
-Test Metrics
+**Test Metrics**
 
 Some of the sample test metrics
 
 <img width="917" height="319" alt="image" src="https://github.com/user-attachments/assets/c737f8c0-ac23-4d7c-976b-2f1e4c01cd36" />
 
-Bug Report
+**Bug Report**
 
 Some of the bug report
 
 <img width="1160" height="414" alt="image" src="https://github.com/user-attachments/assets/47c334eb-dca5-48cb-af5f-79e941b279ba" />
 
-Test Report
+**Test Report**
 
 <img width="980" height="424" alt="image" src="https://github.com/user-attachments/assets/8fadc04d-e4bb-443d-b4f4-d197f7120418" />
