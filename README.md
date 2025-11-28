@@ -13,7 +13,7 @@ This repository is dedicated to manual testing of Chaldal application. Here, It 
 # **Test Plan**
 
 
-Some of the sample test plan
+Some of the sample test plans
 
 <img width="630" height="458" alt="image" src="https://github.com/user-attachments/assets/f1e1d5ec-3d53-4e10-b831-583dfe7be40e" />
 
@@ -34,7 +34,7 @@ Some of the sample test metrics
 
 # **Bug Report**
 
-Some of the bug report
+Some of the bug reports
 
 <img width="1160" height="414" alt="image" src="https://github.com/user-attachments/assets/47c334eb-dca5-48cb-af5f-79e941b279ba" />
 
