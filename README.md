@@ -1,4 +1,4 @@
-This repository is dedicated to manual testing of Chaldal application.Here, It shows test plan, test metrics, writing test cases, effective reporting bugs discovered during the testing process.
+This repository is dedicated to manual testing of Chaldal application. Here, It shows test plan, test metrics, writing test cases, effective reporting bugs discovered during the testing process.
 
 ## Table of Contents
 - [Test Plan](#test-plan)
@@ -36,6 +36,7 @@ Some of the sample test metrics
 Some of the bug report
 
 <img width="1160" height="414" alt="image" src="https://github.com/user-attachments/assets/47c334eb-dca5-48cb-af5f-79e941b279ba" />
+
 
 
 **Test Report**
