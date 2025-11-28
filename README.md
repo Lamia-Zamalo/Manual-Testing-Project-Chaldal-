@@ -9,6 +9,9 @@ This repository is dedicated to manual testing of Chaldal application.Here, It s
 
 
 Test Plan 
+
+Some of the sample test plan
+
 <img width="630" height="458" alt="image" src="https://github.com/user-attachments/assets/f1e1d5ec-3d53-4e10-b831-583dfe7be40e" />
 
 Test Cases for Homepage
